@@ -1,0 +1,33 @@
+<section class="posts">
+    <% page.posts.each(function (post) { %>
+        <article class="post">
+            <% post.categories.each(function (cat) { %>
+                <h4 class="post-cat">
+                    <a href="<%- url_for(cat.path) %>">
+                        <%= cat.name %>
+                    </a>
+                </h4>
+                <%  }) %>
+                    <h1 class="post-title">
+                        <a href="<%- url_for(post.path) %>">
+                            <%= post.title %>
+                        </a>
+                    </h1>
+
+                    <ul class="post-date">
+                        <li>
+                            <%- date(post.date, 'LL') %>
+                        </li>
+                        <li>
+                            <%= config.author %>
+                        </li>
+                    </ul>
+                    <div class="post-content ">
+                        <%- post.excerpt %>
+                            <a href="<%- url_for(post.path) %>" class="more-link">Continue reading</a>
+                    </div>
+        </article>
+        <% }) %>
+</section>
+
+<%- partial('_partial/pagination', {type: 'page'}) %>

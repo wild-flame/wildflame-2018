@@ -1,0 +1,26 @@
+<!--nav>
+    <ul class="pager">
+        <nav class="pagination">
+            <% if (page.total > 1){ %>
+            <nav id="page-nav">
+              <%- paginator({
+                prev_text: "&laquo; " + __('prev'),
+                next_text: __('next') + " &raquo;"
+              }) %>
+            </nav>
+          <% } %>
+          </nav>
+    </ul>
+</nav-->
+
+<% if (page.prev || page.next) { %>
+  <nav class="pagination">
+    <%-
+      paginator({
+        prev_text: '<i class="fa fa-angle-left"></i> <',
+        next_text: '<i class="fa fa-angle-right"></i> >',
+        mid_size: 1
+      })
+    %>
+  </nav>
+<% } %>
