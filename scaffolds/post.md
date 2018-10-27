@@ -1,5 +1,9 @@
 ---
 title: {{ title }}
-date: {{ date }}
-tags:
+category: diary
+permalink: {{ title }}
+author: David Lin
+tags: 
+  - diary
 ---
+

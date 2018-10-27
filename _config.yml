@@ -13,7 +13,7 @@ timezone:
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
-url: http://wildflame.me
+url: https://wildflame.me/
 root: /
 permalink: :title/
 permalink_defaults:
@@ -52,6 +52,9 @@ markdown:
     breaks: false
     linkify: true
     typographer: true
+  anchors:
+    level: 3
+    permalinkSymbol: ''
   
 # Home page setting
 # path: Root path for your blogs index page. (default = '')
@@ -82,10 +85,11 @@ pagination_dir: page
 # Extensions
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
-theme: hexo-theme-next
+theme: hexo-theme-next-wildflame
 
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
-  type:
-
+  type: git
+  repo: https://github.com/wild-flame/wild-flame.github.com.git
+  branch: master
