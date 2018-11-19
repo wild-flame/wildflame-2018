@@ -1,0 +1,24 @@
+---
+title: About
+date: 2018-06-10 16:55:29
+---
+
+<section>
+  <h2 class="smallcap">About</h2>
+  <p> Hi there! I am currently <a href="https://istd.sutd.edu.sg/people/phd-students/lin-dongwen">a Ph.D. student</a> in Singapore University of Technology and Design in the area of Human-Computer Interaction(HCI).
+ </p>
+</section>
+<section>
+  <h2 class="smallcap">Notes</h2>
+  <ul>
+    <li>
+      <a href="https://wild-flame.gitbooks.io/mac-os-x-setup-guide/content/">Mac OS X 完全配置指南 (Setup-Guide)</a> 
+    </li>
+  </ul>
+</section>
+<setcion>
+  <h2 class="smallcap">Name</h2>
+  <p>
+    Wildflame，取意于龙应台的《野火集》。
+  </p>
+</section>
