@@ -10,6 +10,11 @@ permalink: university-life
 
 ---
 
+
+<img style="border-radius:20px; width:90%; margin-left:5%;" src="/images/hit_main_building.jpg" x></img>
+
+<!-- more -->
+
 1. 哈工大的校庆日刚好和高考的时间是重合的。高考之前从来没想过报考的大学，结果最后阴差阳错的考了进去，从此就和这个名字结下了不解之缘。
 
 2. 工大在南方名气没有那么大。想起第一次听说这个学校，竟然小时候玩过的唯一收费网游《梦幻西游》里时认识的为数不多的网友之一告诉我的，那人刚高考，我那时刚上初中，小不懂事就问他想读哪里大学，他说他报了哈工大。
@@ -38,7 +43,6 @@ permalink: university-life
 
 14. 说起来，听说换了校长以后，学校的活动已经多起来了，行政上冥顽不化的风气也开始变好。另一方面学校的工科排名也在噌的一下向上长（大概也是托了IT和互联网的福气）。希望百年校庆的时候能学校够办的更好，给我一个回去母校的理由。
 
-<img style="border-radius:20px; width:90%; margin-left:5%;" src="/images/hit_main_building.jpg" x></img>
 
 <p style= "text-align:center;">
 </br>

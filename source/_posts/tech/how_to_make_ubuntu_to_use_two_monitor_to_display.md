@@ -17,6 +17,8 @@ permalink: how_to_make_ubuntu_to_use_two_monitor_to_display
 
 方法有好几种，可以在终端下配置，也可以利用图形界面来配置。这里介绍一种最简单的方法。
 
+<!-- more -->
+
 ---
 ## 1.登录配置界面
 

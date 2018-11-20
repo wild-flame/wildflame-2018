@@ -4,8 +4,9 @@ category: tech
 permalink: object_in_javascript
 author: David Lin
 tags: 
-  - diary
-
+  - javascript
+  - OOP
+  - 面向对象编程
 ---
 # 前言
 

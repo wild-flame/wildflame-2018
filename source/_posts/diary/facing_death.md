@@ -14,7 +14,7 @@ permalink: facing_death
 
 一直在想，人对死亡的恐惧，到底来源于什么。
 
-
+<!-- more -->
 
 # 一
 

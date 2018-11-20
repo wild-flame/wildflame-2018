@@ -7,8 +7,14 @@ date: '2018-11-04'
 tags:
   - tech
 permalink: react_the_virtual_DOM
-
+description: 简单解释一下 Virtual DOM
 ---
+
+DOM 操作是现代动态网页实现的核心。但它往往比大多数 JavaScript 的操作慢很多。
+
+由于大多数JavaScript框架更新DOM而不是必须更新，因此这种情况变得更加缓慢。为了避免浏览器进行很多不必要渲染的，React 的开发者们设计了一种叫做虚拟DOM的东西。
+
+<!-- more -->
 
 ## 要解决的问题
 
@@ -21,6 +27,8 @@ DOM 操作是现代动态网页实现的核心。但它往往比大多数 JavaSc
 也许重建列表对于 Web浏览器来说是小菜一碟，但现代网站需要使用的大量的DOM操作并不止如此。低效的更新已经成为一个严重的问题。
 
 为了解决这个问题，React 的开发者们普及了一种叫做虚拟DOM的东西。
+
+<!-- more -->
 
 ## 虚拟DOM
 

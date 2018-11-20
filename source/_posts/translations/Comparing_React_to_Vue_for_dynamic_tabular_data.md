@@ -20,6 +20,8 @@ permalink: Comparing_React_to_Vue_for_dynamic_tabular_data
 
 _有关第一部分的文章，请访问 [https://engineering.footballradar.com/from-a-react-point-of-vue-comparing-reactjs-to-vuejs-for-dynamic-tabular-data/](https://engineering.footballradar.com/from-a-react-point-of-vue-comparing-reactjs-to-vuejs-for-dynamic-tabular-data/) 。第一篇文章的实验结果已经被证明有错误，但是它为这篇文章奠定了基础。_
 
+<!-- more -->
+
 五月23日，周一，我们发布了一篇关于比较 React 和 Vue 的性能的文章，其实验数据比较了二者谁更适合处理频繁更新的列表数据。特别是在对性能要求非常高的情况下，比方说我们手头上的一个足球雷达（Football Radar）的项目。
 
 最初我们对实验结果信心满满，但发现几个较为重要的错误后，才知道实验结果并非像我们预期的那样。我们非常感谢在 React 和 Vue 社区里的宝贵意见 —— 特别是 React 的核心工程师克里斯托弗(Christopher Chedeau) ([@vjeux](https://twitter.com/vjeux))，和 Vue 的创始人埃文(Evan You)([@youyuxi](https://twitter.com/youyuxi))—— 因为你们，我们才能快速的锁定这次测试中的出现的问题，可以说是因祸得福，尽管错误被公开使我感到有一些小小的尴尬，但我的确学到了很多，所以衷心的感谢你们的讨论。

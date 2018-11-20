@@ -91,5 +91,5 @@ theme: hexo-theme-next-wildflame
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
   type: git
-  repo: https://github.com/wild-flame/wild-flame.github.com.git
+  repo: git@github.com:wild-flame/blog.git
   branch: master

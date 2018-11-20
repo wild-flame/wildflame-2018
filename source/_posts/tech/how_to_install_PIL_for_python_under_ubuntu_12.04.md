@@ -2,10 +2,7 @@
 layout: post
 title: '［Python］ubuntu 12.04下面安装影像处理的库PIL的安装, Pygame的安装，以及一些实用的资料整理'
 author: David
-category: tech
-description: >-
-  之前做影像处理都是用的Matlab,这次打算用Python来做，因此要在Python上面安装PIL（PYTHON IMAGE
-  LIBRARY)，安装的环境是ubuntu12.04, Python 2.7.3, GCC 4.6.3
+category: tech 
 date: '2013-07-12'
 tags:
   - tech
@@ -14,7 +11,10 @@ permalink: how_to_install_PIL_for_python_under_ubuntu_12.04
 ---
 
 <!--下面是正文-->
+
 之前做影像处理都是用的Matlab,这次打算用Python来做，因此要在Python上面安装PIL（PYTHON IMAGE LIBRARY)，安装的环境是ubuntu12.04, Python 2.7.3, GCC 4.6.3等。
+
+<!-- more -->
 
 ## 1.Install PIL
 

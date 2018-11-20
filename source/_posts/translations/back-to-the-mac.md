@@ -21,6 +21,8 @@ permalink: back-to-the-mac
 
 ![](https://cdn-images-1.medium.com/max/800/1*o5AUFxXTmRcAr17x1p6m6A.jpeg)
 
+<!-- more -->
+
 ### 假如 Mac 上也有 iOS 应用，世界将会怎样？
 
 没有人专门为 Mac 开发应用，Slack 有专门的 iOS 版本，放在 iPad 上的体验非常好，接上 smart keyboard 以后，你会发现还可以方便的使用快捷键。而且，在应用上无限下滑的体验甚至超过了他们本身的网页端，甚至于我从来没有看到过一个“加载中”的页面。这体验如果能够放到桌面端那是再好不过了，但是他们没有这么做，他们仅仅只是把他们的网页放到了一个 app-launcher 里，这就成了桌面端。

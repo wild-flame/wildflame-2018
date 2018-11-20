@@ -11,12 +11,15 @@ permalink: ubuntu_ruby_environment
 
 ---
 
+
 首先，安装Ruby有很多方法，不过还是这里推荐用 [RVM (Ruby Version Manage)][RVM] 来安装
 
 可能您已经使用过apt安装RVM，或者用ubuntu软件中心，不过为了避免以后出现莫名奇妙的错误，最好还是自己重新安装一下。因此首先清除可能已经的安装好的RVM管理器。
     
     $ sudo apt-get --purge remove ruby-rvm 
     $ sudo rm -rf /usr/share/ruby-rvm /etc/rvmrc /etc/profile.d/rvm.sh 
+
+<!-- more -->
 
 之后重新启动终端并检查环境变量（关于环境变量，）：
 
