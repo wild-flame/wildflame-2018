@@ -6,7 +6,7 @@ category: tech
 date: '2018-11-04'
 tags:
   - tech
-permalink: react_the_virtual_DOM
+permalink: React_The_Virtual_DOM
 description: 简单解释一下 Virtual DOM
 ---
 
