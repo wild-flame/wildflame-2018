@@ -10,7 +10,7 @@ permalink: spring-festival
 
 ---
 
-![](/images/wp_weixin_public/锦里的香火又旺了.jpg)
+![](/blog/images/wp_weixin_public/锦里的香火又旺了.jpg)
 
 <!-- more -->
 
@@ -44,7 +44,7 @@ permalink: spring-festival
 
 我记得那天，我和同桌两个人一起在成都市图书馆自习，中午就在那里的食堂吃饭。那里的工作人员说起逛庙会的事情，刚好被我俩听到了，于是就突发奇想决定晚上要跑去逛庙会。那时觉得锦里真的好大好大，后来才知道原来是因为每年庙会都会把武侯祠和锦里连在一起来（平时是隔开的）。
 
-![](/images/wp_weixin_public/55373343201103252039583761110705374_007-COLLAGE.jpg)
+![](/blog/images/wp_weixin_public/55373343201103252039583761110705374_007-COLLAGE.jpg)
 
 锦里的灯笼
 

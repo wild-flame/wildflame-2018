@@ -24,7 +24,7 @@ UX/UI只是HCI的一个分支，就是说HCI大于UX/UI，UI又约等于但小�
 一般的学校，HCI一般都放在CS下面，而工业设计大多却放在电机或者艺术系里面。
 
 反正HCI就是交叉交叉交叉学科，上个图。
-![HCI](/images/fe270d57365902f02fe8729b10e298b0_b.jpg "HCI")
+![HCI](/blog/images/fe270d57365902f02fe8729b10e298b0_b.jpg "HCI")
 
 # HCI的研究是什么样的？
 
@@ -32,9 +32,9 @@ UX/UI只是HCI的一个分支，就是说HCI大于UX/UI，UI又约等于但小�
 
 盗了导师的图... 科技感十足啊。
 
-![Collaborative video searching on a TableTop](/images/84f10b67d440db062d93894ad3f6daf3_b.jpg "Collaborative video searching on a TableTop")
+![Collaborative video searching on a TableTop](/blog/images/84f10b67d440db062d93894ad3f6daf3_b.jpg "Collaborative video searching on a TableTop")
 —— Físchlár-DiamondTouch : Collaborative video searching on a TableTop
-![Generic Menu System for Multi-touch Wall](/images/50754e12c4a3f1acfd4171e5fb74f104_b.jpg "Generic Menu System for Multi-touch Wall")
+![Generic Menu System for Multi-touch Wall](/blog/images/50754e12c4a3f1acfd4171e5fb74f104_b.jpg "Generic Menu System for Multi-touch Wall")
 —— Generic Menu System for Multi-touch Wall
 
 当然，这只是一个小小侧面啦，HCI可以研究的东西实在是太多了。其实也有人专门研究HCI理论的，设计理论啊一堆堆的，跟软件工程的那堆理论一样看不懂啊= =...

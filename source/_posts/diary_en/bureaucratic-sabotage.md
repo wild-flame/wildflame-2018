@@ -18,6 +18,8 @@ I received so many messages about vaccines recently, which remind me of all the 
 
 My life would be totally back to normal if I should not feel dizzy and vertigo, but I am still fighting hard to get my life back to normal due to my severe symptoms. Despite the fact that I have been fighting with Leukemia for 4 years, I have to fight with a disease similar to multiple sclerosis now, which is even worse than leukaemia, with all these neurological problems.
 
+<!-- more -->
+
 If anyone had told me in advance all the mental/physical problems that I would be suffering after haplo-BMT, I would rather die at the very beginning than do the transplant. The Bureaucratic system in china totally ruined my life, in most aspects. My living quality should be back to at least baseline if I followed my original transplant plan in Singapore, but no one can changes the past.
 
 It is written in Your Medical Mind: How to Decide What is Right for You that people felt regret for a lot of the decisions they made. I, too, made a wrong choice because of family pressure.

@@ -10,7 +10,7 @@ permalink: beyond-death
 
 ---
 
-![](/images/wp_weixin_public/心随于己，喜怒自由心定.jpg)
+![](/blog/images/wp_weixin_public/心随于己，喜怒自由心定.jpg)
 
 <!-- more -->
 

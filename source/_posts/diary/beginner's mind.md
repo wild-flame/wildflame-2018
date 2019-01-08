@@ -10,7 +10,7 @@ permalink: beginner's mind
 
 ---
 
-![](/images/wp_weixin_public/初心勿忘，方得始终.jpg)
+![](/blog/images/wp_weixin_public/初心勿忘，方得始终.jpg)
 
 <!-- more -->
 

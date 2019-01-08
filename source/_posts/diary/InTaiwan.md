@@ -14,7 +14,7 @@ permalink: InTaiwan
 
 # 出行記
 
-![](/images/bike_path_bg_01.jpg)
+![](/blog/images/bike_path_bg_01.jpg)
 
 花蓮地區自行車道
 

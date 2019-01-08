@@ -10,7 +10,7 @@ permalink: thanks-for-everyone
 
 ---
 
-![](/images/wp_weixin_public/friends.png)
+![](/blog/images/wp_weixin_public/friends.png)
 
 <!-- more -->
 

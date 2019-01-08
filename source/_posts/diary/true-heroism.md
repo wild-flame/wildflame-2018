@@ -10,7 +10,7 @@ permalink: true-heroism
 
 ---
 
-![](/images/wp_weixin_public/真正的英雄主义Q版.jpg)
+![](/blog/images/wp_weixin_public/真正的英雄主义Q版.jpg)
 
 "There is only one heroism in the world: to see the world as it is and to love it."  - 题
 
@@ -114,4 +114,4 @@ permalink: true-heroism
 
 生日快乐！
 
-![](/images/wp_weixin_public/Birthday_Cake.jpg)
+![](/blog/images/wp_weixin_public/Birthday_Cake.jpg)

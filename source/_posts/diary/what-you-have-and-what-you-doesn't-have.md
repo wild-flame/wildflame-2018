@@ -10,7 +10,7 @@ permalink: what-you-have-and-what-you-doesn't-have
 
 ---
 
-![](/images/wp_weixin_public/拥有的和带不走的.jpg)
+![](/blog/images/wp_weixin_public/拥有的和带不走的.jpg)
 
 <!-- more -->
 
@@ -84,4 +84,4 @@ permalink: what-you-have-and-what-you-doesn't-have
 
 这首 Stille Nacht 送给大家。希望大家都平平安安，Merry Christmas！
 
-![](/images/wp_weixin_public/Chirstmas_Apple.jpg)
+![](/blog/images/wp_weixin_public/Chirstmas_Apple.jpg)

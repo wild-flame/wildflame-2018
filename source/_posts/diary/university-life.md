@@ -11,7 +11,7 @@ permalink: university-life
 ---
 
 
-<img style="border-radius:20px; width:90%; margin-left:5%;" src="/images/hit_main_building.jpg" x></img>
+<img style="border-radius:20px; width:90%; margin-left:5%;" src="/blog/images/hit_main_building.jpg" x></img>
 
 <!-- more -->
 

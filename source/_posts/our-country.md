@@ -9,7 +9,7 @@ permalink: our-country
 
 ---
 
-<!-- ![](/images/wp_weixin_public/sound_of_silence_noise.jpg) -->
+<!-- ![](/blog/images/wp_weixin_public/sound_of_silence_noise.jpg) -->
 
 当人性遇上官本位，就产生了各种匪夷所思的事情。
 
@@ -26,6 +26,8 @@ permalink: our-country
 利益共享，分享均摊，是解决安全问题的最好方式。如果造假没有成本，那么有脑子的商人都会去造假。
 
 上大学的时候，有一家小饭店我经常去吃，原因无他，只是因为我看到店主自己把剩下的菜吃掉了。
+
+<!-- more -->
 
 ## 二
 
